@@ -1,0 +1,171 @@
+/* styles.css */
+
+/* General Container */
+#container {
+  max-width: 100%;
+  height: 76vh;
+  margin: auto;
+  padding: 40px 40px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 40px;
+}
+
+/* Titles */
+#recommendation-form h1 {
+  width: 400px;
+  font-size: 18px;
+  text-align: left;
+  color: #000000;
+  padding: 40px 0px;
+  line-height: 28px;
+}
+
+/* Form Styling */
+#recommendation-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+  padding: 20px 20px;
+  border-radius: 8px;
+  height: 100%;
+}
+
+label {
+  margin: 10px 0 5px;
+  font-weight: 500;
+}
+
+/* Select dropdowns and input fields */
+select, input[type="text"], textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Button */
+button {
+  background-color: #2686F9;
+  color: white;
+  padding: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+button:hover {
+  background-color: #1e6fe6;
+}
+
+/* Output Section */
+#output {
+  width: 1200px;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  height: 80vh; /* Set height to 80% of viewport */
+  overflow: hidden; /* Prevents outer overflow */
+  display: flex;
+  flex-direction: column;
+}
+
+/* Table Container */
+.table-container {
+  flex: 1;
+  overflow-y: auto;
+  max-height: 100%; /* Allow scrolling inside table */
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  display: block;
+}
+
+/* Sticky Header */
+thead {
+  width: 100%;
+}
+
+th {
+  position: sticky;
+  top: 0;
+  background-color: #2686F9;
+  color: #ffffff;
+  z-index: 10;
+  text-align: left;
+  padding: 10px 20px;
+}
+
+th:nth-child(1) {
+  width: 30%; /* Adjust this percentage to increase or decrease the width */
+}
+
+th:nth-child(2) {
+  width: 20%; /* Adjust this percentage to increase or decrease the width */
+}
+
+/* Scrollable Table Body */
+tbody {
+  display: block;
+  max-height: 76vh; /* Set max height for scrolling */
+  overflow-y: auto;
+  width: 100%;
+}
+
+/* Ensure Rows Take Full Width */
+tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+/* Table Cells */
+td {
+  padding: 10px 20px;
+  text-align: left;
+  white-space: normal; /* Prevent text wrapping */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-bottom: 1px solid #d3d3d3;
+  line-height: 26px;
+  height: 30px;
+}
+
+td:nth-child(1) {
+  width: 30%; /* Adjust this percentage to increase or decrease the width */
+}
+
+td:nth-child(2) {
+  width: 20%; /* Adjust this percentage to increase or decrease the width */
+}
+
+/* Hover Effect */
+.column:hover {
+  background-color: #e6f7ff;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 600px) {
+  #container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #output {
+    width: 100%;
+    height: auto;
+  }
+
+  button {
+    width: 100%;
+  }
+}

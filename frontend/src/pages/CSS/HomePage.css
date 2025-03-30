@@ -1,0 +1,310 @@
+/* HomePage.css */
+
+.w-full {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8f9fa;
+    gap: 140px;
+  }
+  
+  .hero-section {
+    margin-top: 140px;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+  }
+
+  .hero-section img {
+    width: 600px;
+  }
+
+  .hero-text {
+    max-width: 600px; 
+    margin-left: 20px; 
+  }
+  
+  .hero-text h2 {
+    text-align: left;
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: bold;
+    color: #333;
+    line-height: 1.4;
+  }
+  
+  .hero-text h2 span {
+    display: block;
+    font-weight: 700;
+    color: #007bff;
+    margin-top: 5px;
+  }
+  
+  .home-book-now-btn {
+    width: 100px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 15px;
+    text-align: center;
+  }  
+  
+  .home-book-now-btn:hover {
+    background-color: #0056b3;
+  }
+
+  .section-topderma {
+    align-items: center;
+    width: 80%;
+    border: 1px solid #7b7b7b;
+    border-radius: 40px;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .section-topderma h2{
+    font-size: 28px;
+    list-style: 38px;
+    font-weight: 600;
+  }
+
+  .dermatologists-container {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .dermatologist-card {
+    text-align: center;
+    width: 160px;
+  }
+  
+  .dermatologist-card img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+  }
+  
+  .dermatologist-card p {
+    font-weight: 500;
+    margin-top: 18px;
+  }
+
+  .view-all-link {
+    text-decoration: none;
+    color: #007bff;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #7b7b7b;
+    font-size: 18px; 
+  }
+  
+  .view-all-link:hover {
+    background-color: #007bff;
+    color: #ffffff; 
+  }
+
+  .dermatologist-info {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+  }
+
+  .dermatologist-info img {
+    width: 600px;
+  }
+
+  .text-container {
+    max-width: 600px; 
+    margin-left: 20px; 
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .text-container h2 {
+    text-align: left;
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: bold;
+    color: #333;
+    line-height: 1.4;
+  }
+
+  .text-container p {
+    font-size: 16px;
+    line-height: 22px;
+    color: #555;
+  }
+
+  .skincare-products {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+  }
+
+  .skincare-products img {
+    width: 600px;
+  }
+  
+/* User review css */
+  .section-userreviews {
+    align-items: center;
+    width: 80%;
+    border-radius: 40px;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .section-userreviews h2{
+    font-size: 28px;
+    list-style: 38px;
+    font-weight: 600;
+  }
+  
+  .testimonials-container {
+    text-align: center;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    justify-content: space-between;
+  }
+
+  .testimonial-card {
+    width: 300px;
+    background-color: #f8f8f8;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .testimonial-card h3 {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .star-rating {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .star {
+    font-size: 20px;
+    color: #ccc;
+    margin: 0 2px;
+  }
+  
+  .star.filled {
+    color: #ffc107;
+  }
+  
+  .user-review-text {
+    font-size: 16px;
+    line-height: 22px;
+    color: #555;
+  }
+
+  .user-review-name {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+    color: #007bff;
+  }
+  
+/* FAQ Section */
+
+.faq-section {
+    align-items: center;
+    width: 80%;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  
+  .faq-container {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  
+  .faq-container h2 {
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 600;
+  }
+  
+  .faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  
+  .faq-item {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  }
+  
+  .faq-question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  .arrow {
+    font-size: 18px;
+    color: #7b7b7b
+  }
+  
+  .faq-answer {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+  }

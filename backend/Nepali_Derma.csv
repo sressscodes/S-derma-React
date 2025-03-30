@@ -1,0 +1,51 @@
+Dermatologist ID,Name,Expertise,Clinic Name,Location,City,Contact,Consultation Fee (NPR),Bio
+1,Dr. Sita Shrestha,"Acne,Eczema,Psoriasis",SkinCare Nepal,Kamaladi,Kathmandu,977-980100000,1500,Renowned dermatologist with expertise in various skin disorders.
+2,Dr. Rajesh Adhikari,"Hair Loss,Rosacea,Dermatitis",Clear Skin Center,New Road,Pokhara,977-980100001,1200,"Specialist in hair and scalp treatments, helping patients regain confidence."
+3,Dr. Priya Karki,"Psoriasis,Moles,Acne",Derma Health Clinic,Bharatpur,Chitwan,977-980100002,1000,Experienced in holistic treatment of psoriasis and mole removal.
+4,Dr. Amit Thapa,"Eczema,Dermatitis,Vitiligo",Healthy Skin Nepal,Maitidevi,Lalitpur,977-980100003,1800,Board-certified dermatologist with advanced skills in treating vitiligo.
+5,Dr. Sunita Tamang,"Acne Scars,Laser Treatments",Glow Skin Center,Bagbazar,Biratnagar,977-980100004,2000,Expert in cosmetic dermatology and laser skin rejuvenation.
+6,Dr. Ramesh Bhandari,Skin Cancer Prevention,Advanced Derma Solutions,Dillibazar,Dharan,977-980100005,1500,Renowned dermatologist with expertise in various skin disorders.
+7,Dr. Kriti Sharma,Cosmetic Dermatology,Perfect Skin Clinic,Satdobato,Butwal,977-980100006,1200,"Specialist in hair and scalp treatments, helping patients regain confidence."
+8,Dr. Manoj Rai,Pediatric Dermatology,Gentle Skin Care,Baluwatar,Hetauda,977-980100007,1000,Experienced in holistic treatment of psoriasis and mole removal.
+9,Dr. Pooja Gurung,Allergy Testing,Allergy-Free Nepal,Gongabu,Nepalgunj,977-980100008,1800,Board-certified dermatologist with advanced skills in treating vitiligo.
+10,Dr. Sarita Basnet,General Dermatology,Natural Skin Care,Thamel,Janakpur,977-980100009,2000,Expert in cosmetic dermatology and laser skin rejuvenation.
+11,Dr. Juna Basnet,Eczema,Derma Cure,Bhaktapur,Lalitpur,977-980119031,1442,Renowned dermatologist with expertise in various skin disorders.
+12,Dr. Gita Sharma,Psoriasis,Healthy Derma,Dharan,Lalitpur,977-980148228,1352,"Specialist in hair and scalp treatments, helping patients regain confidence."
+13,Dr. Gita Gurung,Vitiligo,Derma Cure,Itahari,Lalitpur,977-980184753,2392,Experienced in holistic treatment of psoriasis and mole removal.
+14,Dr. Ishwor Pandey,Psoriasis,Allergy Care,Bhaktapur,Pokhara,977-980186208,2769,Board-certified dermatologist with advanced skills in treating vitiligo.
+15,Dr. Himanshu Sharma,Dermatitis,Allergy Care,Dharan,Chitwan,977-980187557,1477,Expert in cosmetic dermatology and laser skin rejuvenation.
+16,Dr. Kiran Shrestha,Psoriasis,Glow and Glow,Itahari,Chitwan,977-980158603,1608,Renowned dermatologist with expertise in various skin disorders.
+17,Dr. Juna Gurung,Dermatitis,Skin Harmony,Butwal,Biratnagar,977-980142039,2012,"Specialist in hair and scalp treatments, helping patients regain confidence."
+18,Dr. Elina Basnet,Vitiligo,Derma Cure,Dharan,Chitwan,977-980100929,1766,Experienced in holistic treatment of psoriasis and mole removal.
+19,Dr. Himanshu Basnet,Eczema,Healthy Derma,Itahari,Chitwan,977-980166816,1669,Board-certified dermatologist with advanced skills in treating vitiligo.
+20,Dr. Dilip Basnet,Vitiligo,Allergy Care,Itahari,Lalitpur,977-980172794,2200,Expert in cosmetic dermatology and laser skin rejuvenation.
+21,Dr. Chandra Shrestha,Dermatitis,Glow and Glow,Butwal,Chitwan,977-980127270,1037,Renowned dermatologist with expertise in various skin disorders.
+22,Dr. Gita Thapa,Eczema,Healthy Derma,Dharan,Pokhara,977-980116271,1978,"Specialist in hair and scalp treatments, helping patients regain confidence."
+23,Dr. Juna Pandey,Eczema,Glow and Glow,Birgunj,Lalitpur,977-980175436,2621,Experienced in holistic treatment of psoriasis and mole removal.
+24,Dr. Chandra Thapa,Psoriasis,Allergy Care,Butwal,Kathmandu,977-980174612,1769,Board-certified dermatologist with advanced skills in treating vitiligo.
+25,Dr. Elina Khadka,Acne,Healthy Derma,Dharan,Lalitpur,977-980180216,2147,Expert in cosmetic dermatology and laser skin rejuvenation.
+26,Dr. Ishwor Sharma,Eczema,Glow and Glow,Dharan,Kathmandu,977-980114488,1403,Renowned dermatologist with expertise in various skin disorders.
+27,Dr. Chandra Khadka,Dermatitis,Derma Cure,Butwal,Pokhara,977-980155068,1612,"Specialist in hair and scalp treatments, helping patients regain confidence."
+28,Dr. Kiran Pandey,Eczema,Healthy Derma,Itahari,Pokhara,977-980178014,1226,Experienced in holistic treatment of psoriasis and mole removal.
+29,Dr. Kiran Thapa,Vitiligo,Glow and Glow,Dharan,Biratnagar,977-980100894,2707,Board-certified dermatologist with advanced skills in treating vitiligo.
+30,Dr. Juna Thapa,Psoriasis,Skin Harmony,Birgunj,Pokhara,977-980165650,2514,Expert in cosmetic dermatology and laser skin rejuvenation.
+31,Dr. Kiran Rana,Vitiligo,Allergy Care,Birgunj,Biratnagar,977-980104771,2227,Renowned dermatologist with expertise in various skin disorders.
+32,Dr. Dilip Pandey,Eczema,Allergy Care,Butwal,Pokhara,977-980139290,1322,"Specialist in hair and scalp treatments, helping patients regain confidence."
+33,Dr. Chandra Rana,Acne,Derma Cure,Butwal,Kathmandu,977-980167231,2884,Experienced in holistic treatment of psoriasis and mole removal.
+34,Dr. Dilip Khadka,Eczema,Healthy Derma,Birgunj,Lalitpur,977-980165168,1368,Board-certified dermatologist with advanced skills in treating vitiligo.
+35,Dr. Gita Lama,Vitiligo,Derma Cure,Butwal,Kathmandu,977-980174317,2467,Expert in cosmetic dermatology and laser skin rejuvenation.
+36,Dr. Ishwor Shrestha,Acne,Glow and Glow,Itahari,Biratnagar,977-980169997,2023,Renowned dermatologist with expertise in various skin disorders.
+37,Dr. Dilip Lama,Dermatitis,Derma Cure,Butwal,Chitwan,977-980117277,1923,"Specialist in hair and scalp treatments, helping patients regain confidence."
+38,Dr. Gita Shrestha,Dermatitis,Skin Harmony,Birgunj,Biratnagar,977-980175025,2866,Experienced in holistic treatment of psoriasis and mole removal.
+39,Dr. Kiran Khadka,Psoriasis,Healthy Derma,Butwal,Pokhara,977-980155991,2314,Board-certified dermatologist with advanced skills in treating vitiligo.
+40,Dr. Kiran Bista,Dermatitis,Healthy Derma,Birgunj,Lalitpur,977-980185979,2813,Expert in cosmetic dermatology and laser skin rejuvenation.
+41,Dr. Himanshu Thapa,Dermatitis,Derma Cure,Butwal,Chitwan,977-980128174,2511,Renowned dermatologist with expertise in various skin disorders.
+42,Dr. Anil Lama,Dermatitis,Healthy Derma,Bhaktapur,Biratnagar,977-980117688,1839,"Specialist in hair and scalp treatments, helping patients regain confidence."
+43,Dr. Himanshu Bista,Vitiligo,Glow and Glow,Bhaktapur,Chitwan,977-980140741,2883,Experienced in holistic treatment of psoriasis and mole removal.
+44,Dr. Juna Khadka,Psoriasis,Derma Cure,Birgunj,Pokhara,977-980186467,1620,Board-certified dermatologist with advanced skills in treating vitiligo.
+45,Dr. Kiran Sharma,Acne,Allergy Care,Butwal,Chitwan,977-980134990,2340,Expert in cosmetic dermatology and laser skin rejuvenation.
+46,Dr. Chandra Basnet,Eczema,Healthy Derma,Butwal,Chitwan,977-980172779,1490,Renowned dermatologist with expertise in various skin disorders.
+47,Dr. Juna Sharma,Acne,Healthy Derma,Dharan,Biratnagar,977-980106802,1237,"Specialist in hair and scalp treatments, helping patients regain confidence."
+48,Dr. Bijay Lama,Dermatitis,Derma Cure,Bhaktapur,Chitwan,977-980152301,1675,Experienced in holistic treatment of psoriasis and mole removal.
+49,Dr. Bijay Thapa,Acne,Healthy Derma,Dharan,Pokhara,977-980168651,1612,Board-certified dermatologist with advanced skills in treating vitiligo.
+50,Dr. Juna Lama,Vitiligo,Derma Cure,Butwal,Chitwan,977-980187738,2657,Expert in cosmetic dermatology and laser skin rejuvenation.

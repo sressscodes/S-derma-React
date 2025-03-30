@@ -1,0 +1,131 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8f9fa;
+    gap: 60px;
+}
+
+.welcome-section {
+    margin-top: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  .welcome-section h1 {
+    align-items: center;
+    margin: auto;
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: bold;
+    color: #333;
+  }
+
+  .welcome-section p {
+    font-size: 18px;
+    line-height: 22px;
+    color: #555;
+  }
+
+  .search-bar {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .search-bar input {
+    margin: 0;
+    width: 70%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    outline: none;
+    transition: border-color 0.3s ease;
+  }
+  
+  .search-bar input:focus {
+    border-color: #007bff;
+  }
+  
+  .search-bar .search-button {
+    width: 26%;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .search-bar .search-button:hover {
+    background-color: #0056b3;
+  }
+
+  /* Articls Styling */
+  
+  .articles-section {
+    align-items: center;
+    width: 80%;
+    border-radius: 40px;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .articles-section h2{
+    font-size: 28px;
+    list-style: 38px;
+    font-weight: 600;
+  }
+  
+  .articles-container {
+    text-align: center;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    justify-content: space-between;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 20px; 
+  }
+
+  .article-card {
+    width: 300px;
+    background-color: #f8f8f8;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .article-card h3 {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .article-card img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover; 
+    display: block;
+    border-radius: 5px;
+  }
